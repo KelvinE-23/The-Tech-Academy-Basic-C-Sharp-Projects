@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\bin\Debug\net10.0\MathParameterConsoleApp.exe
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\bin\Debug\net10.0\MathParameterConsoleApp.deps.json
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\bin\Debug\net10.0\MathParameterConsoleApp.runtimeconfig.json
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\bin\Debug\net10.0\MathParameterConsoleApp.dll
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\bin\Debug\net10.0\MathParameterConsoleApp.pdb
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\obj\Debug\net10.0\MathParameterConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\obj\Debug\net10.0\MathParameterConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\obj\Debug\net10.0\MathParameterConsoleApp.AssemblyInfo.cs
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\obj\Debug\net10.0\MathParameterConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\obj\Debug\net10.0\MathParameterConsoleApp.dll
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\obj\Debug\net10.0\refint\MathParameterConsoleApp.dll
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\obj\Debug\net10.0\MathParameterConsoleApp.pdb
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\obj\Debug\net10.0\MathParameterConsoleApp.genruntimeconfig.cache
+C:\Users\User\Documents\Codex\2026-05-27\perform-these-actions-and-create-a\MathParameterConsoleApp\obj\Debug\net10.0\ref\MathParameterConsoleApp.dll
