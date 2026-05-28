@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0D57FE-9756-467C-AA6E-3A25B48DE67C}|Polymorphism_Assignment.csproj|c:\\users\\user\\source\\repos\\kelvine-23\\the-tech-academy-basic-c-sharp-projects\\polymorphism_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0D57FE-9756-467C-AA6E-3A25B48DE67C}|Polymorphism_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0D57FE-9756-467C-AA6E-3A25B48DE67C}|Polymorphism_Assignment.csproj|c:\\users\\user\\source\\repos\\kelvine-23\\the-tech-academy-basic-c-sharp-projects\\polymorphism_assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0D57FE-9756-467C-AA6E-3A25B48DE67C}|Polymorphism_Assignment.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0D57FE-9756-467C-AA6E-3A25B48DE67C}|Polymorphism_Assignment.csproj|c:\\users\\user\\source\\repos\\kelvine-23\\the-tech-academy-basic-c-sharp-projects\\polymorphism_assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0D57FE-9756-467C-AA6E-3A25B48DE67C}|Polymorphism_Assignment.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0D57FE-9756-467C-AA6E-3A25B48DE67C}|Polymorphism_Assignment.csproj|c:\\users\\user\\source\\repos\\kelvine-23\\the-tech-academy-basic-c-sharp-projects\\polymorphism_assignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0D57FE-9756-467C-AA6E-3A25B48DE67C}|Polymorphism_Assignment.csproj|solutionrelative:iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism_Assignment\\IQuittable.cs",
+              "RelativeDocumentMoniker": "IQuittable.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism_Assignment\\IQuittable.cs",
+              "RelativeToolTip": "IQuittable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T17:02:11.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism_Assignment\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism_Assignment\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T16:50:02.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism_Assignment\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism_Assignment\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T16:40:05.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\Polymorphism_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T16:36:33.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

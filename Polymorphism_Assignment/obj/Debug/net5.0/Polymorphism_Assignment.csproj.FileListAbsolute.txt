@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\obj\Debug\net5.0\Polymorphism_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\obj\Debug\net5.0\Polymorphism_Assignment.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\obj\Debug\net5.0\Polymorphism_Assignment.AssemblyInfo.cs
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\obj\Debug\net5.0\Polymorphism_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\obj\Debug\net5.0\Polymorphism_Assignment.sourcelink.json
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\bin\Debug\net5.0\Polymorphism_Assignment.exe
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\bin\Debug\net5.0\Polymorphism_Assignment.deps.json
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\bin\Debug\net5.0\Polymorphism_Assignment.runtimeconfig.json
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\bin\Debug\net5.0\Polymorphism_Assignment.runtimeconfig.dev.json
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\bin\Debug\net5.0\Polymorphism_Assignment.dll
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\bin\Debug\net5.0\Polymorphism_Assignment.pdb
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\obj\Debug\net5.0\Polymorphism_Assignment.dll
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\obj\Debug\net5.0\refint\Polymorphism_Assignment.dll
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\obj\Debug\net5.0\Polymorphism_Assignment.pdb
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\obj\Debug\net5.0\Polymorphism_Assignment.genruntimeconfig.cache
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\obj\Debug\net5.0\ref\Polymorphism_Assignment.dll
