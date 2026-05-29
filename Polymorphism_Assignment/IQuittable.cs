@@ -11,8 +11,8 @@ namespace Polymorphism_Assignment
         public void Quit()
         {
             {
-                Console.WriteLine("This employee has quit.");
-                Console.ReadLine();
+                //Console.WriteLine("This employee has quit.");
+                //Console.ReadLine();
             }
         }
 

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\obj\Debug\net5.0\OperatorOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\obj\Debug\net5.0\OperatorOverload.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\obj\Debug\net5.0\OperatorOverload.AssemblyInfo.cs
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\obj\Debug\net5.0\OperatorOverload.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\obj\Debug\net5.0\OperatorOverload.sourcelink.json
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\bin\Debug\net5.0\OperatorOverload.exe
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\bin\Debug\net5.0\OperatorOverload.deps.json
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\bin\Debug\net5.0\OperatorOverload.runtimeconfig.json
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\bin\Debug\net5.0\OperatorOverload.runtimeconfig.dev.json
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\bin\Debug\net5.0\OperatorOverload.dll
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\bin\Debug\net5.0\OperatorOverload.pdb
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\obj\Debug\net5.0\OperatorOverload.dll
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\obj\Debug\net5.0\refint\OperatorOverload.dll
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\obj\Debug\net5.0\OperatorOverload.pdb
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\obj\Debug\net5.0\OperatorOverload.genruntimeconfig.cache
+C:\Users\User\source\repos\KelvinE-23\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorOverload\obj\Debug\net5.0\ref\OperatorOverload.dll
