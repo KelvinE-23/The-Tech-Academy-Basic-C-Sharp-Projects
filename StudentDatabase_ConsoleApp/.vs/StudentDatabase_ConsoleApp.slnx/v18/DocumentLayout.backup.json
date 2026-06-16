@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase_ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36269539-DCED-4279-AC76-9D045673ECF5}|StudentDatabase_ConsoleApp.csproj|c:\\users\\user\\source\\repos\\kelvine-23\\the-tech-academy-basic-c-sharp-projects\\studentdatabase_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36269539-DCED-4279-AC76-9D045673ECF5}|StudentDatabase_ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36269539-DCED-4279-AC76-9D045673ECF5}|StudentDatabase_ConsoleApp.csproj|c:\\users\\user\\source\\repos\\kelvine-23\\the-tech-academy-basic-c-sharp-projects\\studentdatabase_consoleapp\\studentdatabase_consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36269539-DCED-4279-AC76-9D045673ECF5}|StudentDatabase_ConsoleApp.csproj|solutionrelative:studentdatabase_consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36269539-DCED-4279-AC76-9D045673ECF5}|StudentDatabase_ConsoleApp.csproj|c:\\users\\user\\source\\repos\\kelvine-23\\the-tech-academy-basic-c-sharp-projects\\studentdatabase_consoleapp\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36269539-DCED-4279-AC76-9D045673ECF5}|StudentDatabase_ConsoleApp.csproj|solutionrelative:schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36269539-DCED-4279-AC76-9D045673ECF5}|StudentDatabase_ConsoleApp.csproj|c:\\users\\user\\source\\repos\\kelvine-23\\the-tech-academy-basic-c-sharp-projects\\studentdatabase_consoleapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36269539-DCED-4279-AC76-9D045673ECF5}|StudentDatabase_ConsoleApp.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36269539-DCED-4279-AC76-9D045673ECF5}|StudentDatabase_ConsoleApp.csproj|c:\\users\\user\\source\\repos\\kelvine-23\\the-tech-academy-basic-c-sharp-projects\\studentdatabase_consoleapp\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36269539-DCED-4279-AC76-9D045673ECF5}|StudentDatabase_ConsoleApp.csproj|solutionrelative:grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDatabase_ConsoleApp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase_ConsoleApp\\StudentDatabase_ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "StudentDatabase_ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase_ConsoleApp\\StudentDatabase_ConsoleApp.csproj*",
+              "RelativeToolTip": "StudentDatabase_ConsoleApp.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-16T16:38:15.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase_ConsoleApp\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "SchoolContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase_ConsoleApp\\SchoolContext.cs",
+              "RelativeToolTip": "SchoolContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:34:03.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase_ConsoleApp\\Grade.cs",
+              "RelativeDocumentMoniker": "Grade.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase_ConsoleApp\\Grade.cs",
+              "RelativeToolTip": "Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:26:03.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase_ConsoleApp\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase_ConsoleApp\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T16:25:17.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\KelvinE-23\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentDatabase_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T08:02:22.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
